@@ -4,8 +4,8 @@
 
 # Как использовать
 
->> from quadratic_equation import get_roots
->> get_roots(1,2,3)
+>>> from quadratic_equation import get_roots
+>>> get_roots(1,2,3)
 
 # Как запустить
 
